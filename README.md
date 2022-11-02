@@ -1,4 +1,4 @@
-<p style= "color #000000"> 
+<p style= "color: #ffffff;"> 
 
 - ✌️ so ughhhhh hi im puesVale
 - 🥕 currently doing shit and probably study
