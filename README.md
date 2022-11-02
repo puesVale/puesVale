@@ -1,9 +1,4 @@
-<style>
-    .general {
-    background-color: #ffffff;
-    }
-</style>
-<p class="general">
+<p>
 
 - ✌️ so ughhhhh hi im puesVale
 - 🥕 currently doing shit and probably study
